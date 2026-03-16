@@ -1,8 +1,15 @@
 # Akilla Lima — Portfolio
 
-**Head of Product · Payments Infrastructure · PIX · Card Schemes · Blockchain & Tokenization**
+**Fintech Product Leader — Payments Infrastructure, PIX, Card Schemes, Open Finance & Blockchain**
 
 Portfólio profissional bilíngue (EN/PT-BR) publicado via GitHub Pages. Zero dependências, sem build step.
+
+---
+
+## 🎯 Purpose
+
+This portfolio showcases my work building fintech infrastructure,
+payment platforms and regulatory-compliant financial products in Brazil.
 
 ---
 
