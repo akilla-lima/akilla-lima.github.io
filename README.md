@@ -1,4 +1,4 @@
-# Akilla Nathan — Portfoli
+# Akilla Nathan — Portfolio
 
 **Bilingual (EN/PT) professional portfolio for a Group Product Manager in Fintech & Payments.**  
 Built for GitHub Pages. Zero dependencies, no build step required.
